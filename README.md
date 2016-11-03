@@ -9,3 +9,8 @@ For now user can take reference from the ``Welcome`` Module of the project locat
  - PHP 5.3 or later
  - Apache Server
  - MySQL 5.5 or later
+ - Virtual Server (eg localhost:8080)
+ 
+### Virtual host for windows user
+
+form command prompt ``path/to/project/directory startserver.bat`` or ``path/to/project/directory php -S localhost:8080``
